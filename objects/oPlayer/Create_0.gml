@@ -22,7 +22,7 @@ dmg = 1;
 shot_spd = 2;
 fire_rate = 30;
 can_shoot = 0;
-aim_dir = 0;;
+aim_dir = 0;
 
 //necromancy
 

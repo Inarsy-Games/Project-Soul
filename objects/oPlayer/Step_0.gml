@@ -6,6 +6,8 @@ var _jump_held = keyboard_check(vk_space);
 
 var _shoot = mouse_check_button_pressed(mb_left);
 
+var _necro = keyboard_check_pressed(ord("E"));
+
 //move about- 
 
 //horizontal
@@ -54,7 +56,7 @@ if can_shoot < 0 and _shoot {
 
 //necromancy-
 
-if souls > soul_lvl[0] {
+if souls > soul_lvl[0] and _necro {
 	instance_create_depth(x, y, depth, oNecrozone);	
 }
 
