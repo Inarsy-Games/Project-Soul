@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"persistent","order":5,"path":"folders/Objects/persistent.yy",},
+    {"name":"Rooms","order":3,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":1,"path":"folders/Scripts.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oBullet","order":1,"path":"objects/oBullet/oBullet.yy",},
+    {"name":"oHead","order":2,"path":"objects/oHead/oHead.yy",},
+    {"name":"oNecrozone","order":3,"path":"objects/oNecrozone/oNecrozone.yy",},
+    {"name":"oWall","order":4,"path":"objects/oWall/oWall.yy",},
+    {"name":"sBullet","order":3,"path":"sprites/sBullet/sBullet.yy",},
+    {"name":"sHead","order":1,"path":"sprites/sHead/sHead.yy",},
+    {"name":"sNecrozone","order":4,"path":"sprites/sNecrozone/sNecrozone.yy",},
+    {"name":"sWall","order":2,"path":"sprites/sWall/sWall.yy",},
+  ],
+}
