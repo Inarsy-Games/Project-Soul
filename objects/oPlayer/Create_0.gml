@@ -28,3 +28,6 @@ aim_dir = 0;
 
 souls = 0;
 soul_lvl = [10, 25, 50];
+
+//animate
+draw_angle = 0;

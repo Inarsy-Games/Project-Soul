@@ -50,8 +50,9 @@ can_shoot -= 1;
 
 if can_shoot < 0 and _shoot {
 	
-	instance_create_depth(x, y, depth, oBullet);
+	instance_create_depth(oGun.x, oGun.y, depth, oBullet);
 	can_shoot = fire_rate;
+	oGun.just_shot = 10;
 }
 
 //necromancy-
